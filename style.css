@@ -1,0 +1,52 @@
+.bgimage {
+    height:100vh;
+    background: url('asserts/images.jpg');
+    background-size:cover;
+    position:relative;
+}
+.hero_title {
+    font-size: 4.5rem;
+}
+.hero_desc {
+    font-size: 2rem;
+}
+.hero-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+.fr{
+    font-family: Brush Script MT;
+}
+.imageAboutPage {
+    width: 100%;
+}
+
+
+.flip{
+    background-color:rgba(244, 186, 38, 0.803);
+}
+#flop{
+    background-color: rgba(244, 186, 38, 0.803);
+    margin-top: 155px;
+}
+.aboutimg{
+    padding-top: 10px;
+    height:100vh;
+    /* background: url('asserts/white-wood-wallpaper-backgrounds.jpg'); */
+    background-size:cover;
+    position:relative;
+}
+.navbarScroll.navbarDark {
+    background-color: rgba(0, 0, 0, 0.877);
+}
+.contactimg{
+    background-image: url(asserts/about.jpg);
+    padding-top: 10px;
+}
+#project ul li{
+    list-style: none;
+}
